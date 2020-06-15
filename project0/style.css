@@ -1,0 +1,88 @@
+body {
+  margin: 0px;
+  border: 0px;
+  background-color: rgb(176, 80, 255, 0.753);
+  height: 300%;
+  color: rgb(46, 0, 59);
+}
+h1 {
+  background-color: rgba(32, 0, 58, 0.712);
+  margin: 0px;
+  padding-bottom: 60px;
+  height: 15px;
+  color: rgb(219, 163, 245);
+  font-family: "Chalkduster", fantasy;
+  font-size: 300%;
+  font-style: italic;
+  text-align: center;
+}
+
+table th {
+  border: 1px solid purple;
+}
+table tr {
+  border: 1px solid purple;
+}
+table td {
+  border: 1px solid purple;
+}
+
+.table {
+  margin: auto;
+  padding: 25.5px;
+  border: 1px solid purple;
+  height: 25%;
+  width: 80%;
+  background-color: #bb72ec;
+  color: #580d7a;
+  font-family: "Roboto", sans-serif;
+  font-size: 100%;
+  text-align: center;
+}
+.Lists {
+  margin: 0;
+  padding: 25.5px;
+  height: 300%;
+  width: 100%;
+  border: 0;
+  background-color: #bb72ec;
+  color: #580d7a;
+  font-family: "Roboto", sans-serif;
+  font-size: 300%;
+  text-align: left;
+}
+
+.navbar {
+  margin: 0;
+  padding: 25.5px;
+  border: 0;
+  background-color: #07000c;
+  color: #ebbfff;
+}
+.navbar-brand {
+  margin: 0;
+  padding: 25.5px;
+  border: 0;
+  background-color: #ebbfff;
+  color: #07000c;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding: 2px;
+  border: 5px solid rgb(154, 100, 255);
+}
+.row {
+  margin: 0;
+  height: 100%;
+  padding: 25.5px;
+  border: 0;
+  background-color: #bb72ec;
+  color: #580d7a;
+  font-family: "Roboto", sans-serif;
+  font-size: 100%;
+  text-align: center;
+}
